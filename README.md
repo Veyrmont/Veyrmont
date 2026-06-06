@@ -15,11 +15,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Veyrmont&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Global%20Trading%20%7C%20Investment%20Solutions%20%7C%20Innovation%20%7C%20Growth&descAlignY=58&descAlign=50"/>
 
-<!-- Replace logo.png with your actual Veyrmont logo -->
-<p align="center">
-  <img src="logo.png" width="180" alt="Veyrmont Logo">
-</p>
-
 </div>
 
 ---
